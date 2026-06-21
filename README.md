@@ -30,4 +30,3 @@ This project analyzes sales performance using Python, SQL, and Power BI.
 Archana Chimmiri
 =======
 # Sales-Data-Analysis
->>>>>>> 36275f63d26d6cb7c089e2bff007907e46f7987d
