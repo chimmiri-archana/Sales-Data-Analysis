@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Sales Data Analysis Dashboard
 
 ## Overview
