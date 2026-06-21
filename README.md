@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Sales Data Analysis Dashboard
 
 ## Overview
@@ -29,3 +30,6 @@ This project analyzes sales performance using Python, SQL, and Power BI.
 
 ## Author
 Archana Chimmiri
+=======
+# Sales-Data-Analysis
+>>>>>>> 36275f63d26d6cb7c089e2bff007907e46f7987d
