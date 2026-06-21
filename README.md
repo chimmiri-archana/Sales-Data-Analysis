@@ -1,5 +1,4 @@
 # Sales Data Analysis Dashboard
-
 ## Overview
 This project analyzes sales performance using Python, SQL, and Power BI.
 
